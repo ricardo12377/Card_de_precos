@@ -22,6 +22,7 @@
 
 .title {
     color: var(--main-color);
+    font-weight: bold;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -29,29 +30,32 @@
 .card_one {
     width: 250px;
     height: 330px;
-    border: 1px solid rgb(233, 227, 227);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-radius: 15px;
+    -webkit-box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40); 
+box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40);
 }
 
 .card_two {
     width: 250px;
     height: 330px;
-    border: 1px solid rgb(233, 227, 227);
     position: relative;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-radius: 15px;
+    -webkit-box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40); 
+    box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40);
 }
 
 .card_three {
     width: 250px;
     height: 330px;
-    border: 1px solid rgb(233, 227, 227);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-radius: 15px;
+    -webkit-box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40); 
+    box-shadow: 6px 9px 13px -2px rgba(0,0,0,0.40);
 }
 
 .title {
