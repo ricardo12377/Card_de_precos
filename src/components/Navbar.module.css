@@ -1,0 +1,30 @@
+:root {
+    --main-color: #40E0D0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    background-color: var(--main-color);
+    height: 100px;
+}
+
+
+.container {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.container_two ul  {
+    display: flex;
+    list-style: none;
+    gap: 1em;
+    margin-right: 17px;
+}
+
+.container_two ul li {
+    font-weight: bold;
+}
