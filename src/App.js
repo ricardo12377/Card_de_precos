@@ -1,6 +1,5 @@
-import Product from './components/Product'
-import Navbar from './components/Navbar'
-
+import Navbar from './components/layout/Navbar'
+import Product from './components/pages/Product';
 function App() {
   return (
        <div>

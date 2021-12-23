@@ -28,3 +28,9 @@
 .container_two ul li {
     font-weight: bold;
 }
+
+@media screen and (max-width: 700px) {
+    .container_two {
+        margin-right: 2em;
+    }
+}
